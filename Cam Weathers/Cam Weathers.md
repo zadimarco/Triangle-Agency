@@ -1,14 +1,14 @@
 ---
 commendations_total: 27
-commendations_mission: 0
+commendations_mission: 18
 demerits_total: 15
-demerits_mission: 0
+demerits_mission: 1
 attentiveness_max: 0
 attentiveness: 0
 duplicity_max: 0
 duplicity: 0
 dynamism_max: 3
-dynamism: 3
+dynamism: 2
 empathy_max: 0
 empathy: 0
 initiative_max: 3
@@ -108,8 +108,42 @@ Demerits: `VIEW[{demerits_mission}]`
 ### Competencies
 ##### Attentiveness: `VIEW[{attentiveness}]`
 `BUTTON[attentiveness-decrement, attentiveness-reset, attentiveness-increment]`
+```meta-bind-button
+label: "Reset"
+hidden: true
+id: "attentiveness-reset"
+style: default
+actions:
+  - type: updateMetadata
+    bindTarget: attentiveness
+    evaluate: true
+    value: getMetadata('attentiveness_max')
 
----
+```
+```meta-bind-button
+label: "+1"
+hidden: true
+id: "attentiveness-increment"
+style: default
+actions:
+  - type: updateMetadata
+    bindTarget: attentiveness
+    evaluate: true
+    value: Math.min(x+1, getMetadata('attentiveness_max'))
+
+```
+```meta-bind-button
+label: "-1"
+hidden: true
+id: "attentiveness-decrement"
+style: default
+actions:
+  - type: updateMetadata
+    bindTarget: attentiveness
+    evaluate: true
+    value: Math.max(x-1, 0)
+
+```
 ##### Duplicity: `VIEW[{duplicity}]`
 ```meta-bind-button
 label: "Reset"
@@ -415,49 +449,11 @@ actions:
 ```
 `BUTTON[subtlety-decrement, subtlety-reset, subtlety-increment]`
 
-```meta-bind-button
-label: "Reset"
-hidden: true
-id: "attentiveness-reset"
-style: default
-actions:
-  - type: updateMetadata
-    bindTarget: attentiveness
-    evaluate: true
-    value: getMetadata('attentiveness_max')
-
-```
-```meta-bind-button
-label: "+1"
-hidden: true
-id: "attentiveness-increment"
-style: default
-actions:
-  - type: updateMetadata
-    bindTarget: attentiveness
-    evaluate: true
-    value: Math.min(x+1, getMetadata('attentiveness_max'))
-
-```
-```meta-bind-button
-label: "-1"
-hidden: true
-id: "attentiveness-decrement"
-style: default
-actions:
-  - type: updateMetadata
-    bindTarget: attentiveness
-    evaluate: true
-    value: Math.max(x-1, 0)
-
-```
-
-[[Quality Assurances]]
 [[Barista]]
 ### Sanctioned Behaviors
 Receive 1 Commendation each time you:
 - [x] Make someone feel welcome.
-- [ ] Show off your specialized knowledge.
+- [x] Show off your specialized knowledge.
 - [x] Get some blood flowing.
 
 ## Reality: 

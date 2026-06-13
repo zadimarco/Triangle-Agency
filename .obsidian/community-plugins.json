@@ -1,5 +1,6 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "js-engine"
 ]
