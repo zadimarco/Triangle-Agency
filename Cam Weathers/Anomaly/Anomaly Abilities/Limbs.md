@@ -11,8 +11,12 @@ and can easily engage any mundane or Minor Anomaly target into a stalemate.
 failure, you become only limbs. All other features disappear and you become a conscious pile of whatever limbs you were hoping to create. You are extremely awkward and vulnerable to Harm for an hour.
 ## Q: When I run into a wall, I...
 - [x] Practiced
-
-| Eat the wall.<br><form action = "\action_page.php"><br><input input type="checkbox"><input input type="checkbox"><input input type="checkbox">S13 | Step over the wall.<br><form action = "\action_page.php"><br><input input type="checkbox"><input input type="checkbox"><input input type="checkbox">G9 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
+### A: Eat the wall.
+- [ ] 1
+- [ ] 2
+- [ ] S13
+### A: Step over the wall.
+- [ ] 1
+- [ ] 2
+- [ ] G9
 

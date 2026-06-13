@@ -14,7 +14,10 @@ you see **A Vision of the End**. You receive a piece of forbidden knowledge abou
 
 ## Q: Have I seen a Vision of the End?
 - [ ] Practiced
+### A: No, also I like plants!
+- [ ] 1
+- [ ] 2
+- [ ] G6
 
-| No, also I like plants!<br><form action = "\action_page.php"><br><input input type="checkbox"><input input type="checkbox"><input input type="checkbox">G6 | Yes.<br><form action = "\action_page.php"><br><input input type="checkbox">R7 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-
+### A: Yes
+- [x] R7
