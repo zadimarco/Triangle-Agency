@@ -1,0 +1,34 @@
+- Everyone has been late for everything recently. 
+- Agent has gone missing from Park Street station(Jahnavi Reddi)
+- Giant rat was recorded at Park Street by Ralph
+- Erlow and Vic are buskers at Park St
+	- Lots of people in the subway
+	- Pointed us toward a tunnel with a guy working construction (water repair)
+- Homeless man (Randall Vacone)
+	- Rats talking to each other
+	- New Hallways
+	- Scrawny kid walked through a new hallway
+	- Hired to work at Zbarro by Yung Bitch
+- Murals
+	- Went deeper and deeper
+	- There were fruits with eyes
+		- Related to the weather
+	- There were a bunch of rats as well
+- 1st Station: Went down hallway that didn't exist and went to duplicate of Park Street based around failed comedy
+- 2nd Station: Sign says how long since trains departed
+	- Announcement listing off how long you've spent working, with Anu
+		- Info about Jahnavi
+	- Randall distraught about not seeing his family for a while
+- 3rd Station: Rat station
+	- Everyone is big rats
+	- Small rats following us
+- Dave disappeared
+	- Rat dragging blood soaked shoe into hole in wall
+- Eyes
+	- Anomaly Tracking
+	- Reality
+
+## Mission Objectives
+- [x] +1 commendation for standing clear of the doors
+- [ ] +3 commendations for ordering off menu
+- +1 demerit for pushing through a crowd
