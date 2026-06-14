@@ -8,7 +8,7 @@ Every time you use it, fill out one space on The End track. When the track is fu
 
 
 - [x] 1
-- [ ] 2
+- [x] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
