@@ -10,9 +10,9 @@ and can easily engage any mundane or Minor Anomaly target into a stalemate.
 ## On a failure,
 failure, you become only limbs. All other features disappear and you become a conscious pile of whatever limbs you were hoping to create. You are extremely awkward and vulnerable to Harm for an hour.
 ## Q: When I run into a wall, I...
-- [ ] Practiced
+- [x] Practiced
 ### A: Eat the wall.
-- [x] 1
+- [ ] 1
 - [ ] 2
 - [ ] S13
 ### A: Step over the wall.

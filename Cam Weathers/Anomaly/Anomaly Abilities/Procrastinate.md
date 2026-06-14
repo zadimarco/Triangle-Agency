@@ -22,4 +22,4 @@ I used Procrastinate to decrease 3s.
 - [ ] L5
 I use Procrastinate on a Triscendence. 
 - [x] 1
-- [ ] C8
+- [x] C8

@@ -8,17 +8,17 @@ attentiveness: 0
 duplicity_max: 0
 duplicity: 0
 dynamism_max: 3
-dynamism: 2
+dynamism: 3
 empathy_max: 0
 empathy: 0
 initiative_max: 3
 initiative: 3
-persistence_max: 0
-persistence: 0
+persistence_max: 1
+persistence: 1
 presence_max: 0
 presence: 0
 professionalism_max: 3
-professionalism: 1
+professionalism: 3
 subtlety_max: 0
 subtlety: 0
 ---
