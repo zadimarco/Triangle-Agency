@@ -12,7 +12,7 @@ the roll becomes a Failure. This Mission, you may change the results of up to th
 
 When you fulfill the criteria listed on the track, you can increase that track once when you use Be Known for this ability. You can fill all 3 tracks and receive all 3 abilities.
 
-- [x] Practiced
+- [ ] Practiced
 
 I used Procrastinate to increase 3s. 
 - [ ] 1
@@ -21,5 +21,5 @@ I used Procrastinate to decrease 3s.
 - [ ] 1
 - [ ] L5
 I use Procrastinate on a Triscendence. 
-- [ ] 1
+- [x] 1
 - [ ] C8

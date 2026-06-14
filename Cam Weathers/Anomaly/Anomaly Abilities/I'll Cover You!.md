@@ -11,7 +11,7 @@ you armor yourself in extra layers of protective flesh. This instance of Harm is
 you and the target both take the original harm. Your body grows beyond your intent and remains overgrown in an obvious way until you have at least an hour to rest and recuperate.
 
 ## I protect people because...
-- [ ] Practiced
+- [x] Practiced
 
 | I want them to know who's tougher.<br><form action = "\action_page.php"><br><input input type="checkbox"><input input type="checkbox"><input input type="checkbox">F5 | They cannot protect themselves.<br><form action = "\action_page.php"><br><input input type="checkbox"><input input type="checkbox"><input input type="checkbox">L6 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
