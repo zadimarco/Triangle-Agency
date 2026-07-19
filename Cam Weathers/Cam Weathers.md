@@ -1,5 +1,5 @@
 ---
-commendations_total: 51
+commendations_total: 18
 commendations_mission: 0
 demerits_total: 16
 demerits_mission: 0
