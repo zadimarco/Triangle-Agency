@@ -452,9 +452,9 @@ actions:
 [[Barista]]
 ### Sanctioned Behaviors
 Receive 1 Commendation each time you:
-- [x] Make someone feel welcome.
-- [x] Show off your specialized knowledge.
-- [x] Get some blood flowing.
+- [ ] Make someone feel welcome.
+- [ ] Show off your specialized knowledge.
+- [ ] Get some blood flowing.
 
 ## Reality: 
 [[Caretaker]]
