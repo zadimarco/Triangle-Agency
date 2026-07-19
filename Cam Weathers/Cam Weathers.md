@@ -12,7 +12,7 @@ dynamism: 3
 empathy_max: 0
 empathy: 0
 initiative_max: 3
-initiative: 3
+initiative: 2
 persistence_max: 1
 persistence: 1
 presence_max: 0

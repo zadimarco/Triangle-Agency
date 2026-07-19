@@ -1,5 +1,5 @@
 - Everyone has been late for everything recently. 
-- Agent has gone missing from Park Street station(Jahnavi Reddi)
+- Agent has gone missing from Park Street station (Jahnavi Reddi)
 - Giant rat was recorded at Park Street by Ralph
 - Erlow and Vic are buskers at Park St
 	- Lots of people in the subway

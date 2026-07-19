@@ -11,4 +11,10 @@
 		- Sweaty guy who is constantly nervous
 			- Hyper Hydrosis
 - Carnby & Laroche interrogation
-	- 
+	- Refined Senses
+		- Brain:
+			- Carnby
+				- Has a soft spot for Cam, but they are not going to back down on the interrogation
+		- Ears:
+			- Guy talking about a buckle he got from a guy
+			- 
