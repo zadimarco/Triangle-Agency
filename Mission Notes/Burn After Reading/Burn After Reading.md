@@ -4,6 +4,8 @@
 - +1 For excessive use of force
 - -1 For De-escalating a situation
 
+## Procrastinate
+Number of 3s: 3
 # Notes
 - Boston Police Unusual Cases Department
 	- New cop
@@ -17,4 +19,3 @@
 				- Has a soft spot for Cam, but they are not going to back down on the interrogation
 		- Ears:
 			- Guy talking about a buckle he got from a guy
-			- 

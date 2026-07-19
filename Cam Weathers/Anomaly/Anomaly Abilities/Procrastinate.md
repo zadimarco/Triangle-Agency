@@ -12,7 +12,7 @@ the roll becomes a Failure. This Mission, you may change the results of up to th
 
 When you fulfill the criteria listed on the track, you can increase that track once when you use Be Known for this ability. You can fill all 3 tracks and receive all 3 abilities.
 
-- [ ] Practiced
+- [x] Practiced
 
 I used Procrastinate to increase 3s. 
 - [ ] 1
