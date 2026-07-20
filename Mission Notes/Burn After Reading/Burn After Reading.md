@@ -6,6 +6,15 @@
 
 ## Procrastinate
 Number of 3s: 3
+
+## Refined Senses:
+- Brain
+- Skin
+- Ears
+
+## Eyes
+- Weakness
+- Future Sight
 # Notes
 - Boston Police Unusual Cases Department
 	- New cop
