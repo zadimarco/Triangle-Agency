@@ -1,6 +1,6 @@
 ---
-commendations_total: 18
-commendations_mission: 4
+commendations_total: 29
+commendations_mission: 0
 demerits_total: 16
 demerits_mission: 0
 attentiveness_max: 0
@@ -452,7 +452,7 @@ actions:
 [[Barista]]
 ### Sanctioned Behaviors
 Receive 1 Commendation each time you:
-- [ ] Make someone feel welcome.
+- [x] Make someone feel welcome.
 - [x] Show off your specialized knowledge.
 - [x] Get some blood flowing.
 

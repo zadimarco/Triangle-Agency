@@ -18,8 +18,8 @@ I used Procrastinate to increase 3s.
 - [ ] 1
 - [ ] B4
 I used Procrastinate to decrease 3s. 
-- [ ] 1
-- [ ] L5
+- [x] 1
+- [x] L5
 I use Procrastinate on a Triscendence. 
 - [x] 1
 - [x] C8

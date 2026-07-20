@@ -13,7 +13,7 @@ types of vision, which last for 1 hour:
 you see **A Vision of the End**. You receive a piece of forbidden knowledge about the end of all things, too big for your mind to comprehend. You suffer from an additional Burnout on all rolls until the end of the mission.
 
 ## Q: Have I seen a Vision of the End?
-- [x] Practiced
+- [ ] Practiced
 ### A: No, also I like plants!
 - [ ] 1
 - [ ] 2
