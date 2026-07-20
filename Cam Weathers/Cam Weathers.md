@@ -1,6 +1,6 @@
 ---
 commendations_total: 18
-commendations_mission: 3
+commendations_mission: 4
 demerits_total: 16
 demerits_mission: 0
 attentiveness_max: 0
@@ -454,7 +454,7 @@ actions:
 Receive 1 Commendation each time you:
 - [ ] Make someone feel welcome.
 - [x] Show off your specialized knowledge.
-- [ ] Get some blood flowing.
+- [x] Get some blood flowing.
 
 ## Reality: 
 [[Caretaker]]
