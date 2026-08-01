@@ -2,7 +2,6 @@ You create and can now wield a powerful artifact: Little Hand. Little Hand is a 
 ## On a success, 
 the target is hit with Little Hand. The most recent Harm or destruction caused by the target is undone. Anyone or anything previously Harmed is physically unscathed, although they remember what happened. If the target has never caused any Harm or destruction, tiny springs fly out in every direction like sparks from the point of contact. When this happens, Little Hand breaks and cannot be used for the remainder of this mission. Tapped clocks ignore this effect.
 
-
 On every third 3, choose one: 
 - Time advances by one hour. 
 - Time rewinds by one hour. 
