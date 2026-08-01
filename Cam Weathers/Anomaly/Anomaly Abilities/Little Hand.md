@@ -7,12 +7,10 @@ On every third 3, choose one:
 - Time advances by one hour. 
 - Time rewinds by one hour. 
 - A loud gong sound reverberates from the point of your attack that can be heard up to 100 meters away and shatters any nearby glass. 
-- A person or package that someone nearby is anticipating arrives, regardless of how long it would normally take. 
-## On Triscendence, 
-you may experience the next 60 seconds as if they are 60 minutes, the rest of the world moving slowly around you. You may bring any objects or people you can hold with you as you experience time in this way. 
-
-## On a failure, 
+- A person or package that someone nearby is anticipating arrives, regardless of how long it would normally take.
+## On Triscendence,
+you may experience the next 60 seconds as if they are 60 minutes, the rest of the world moving slowly around you. You may bring any objects or people you can hold with you as you experience time in this way.
+## On a failure,
 the GM will undo the most significant instance of Harm dealt by you or one of your allies within the last 3 missions.
-
 
 When you have B4, L5, and C8, receive R15.
