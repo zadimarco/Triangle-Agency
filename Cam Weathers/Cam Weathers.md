@@ -2,7 +2,7 @@
 commendations_total: 29
 commendations_mission: 0
 demerits_total: 16
-demerits_mission: 1
+demerits_mission: 4
 attentiveness_max: 0
 attentiveness: 0
 duplicity_max: 0

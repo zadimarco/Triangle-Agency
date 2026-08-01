@@ -12,4 +12,4 @@
 ### Corpses
 - Smashed remains of a guitar 
 - Smells of Vinegar
-- 
+- Guy was seen practicing guitar
