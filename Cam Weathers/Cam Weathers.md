@@ -1,6 +1,6 @@
 ---
 commendations_total: 29
-commendations_mission: 4
+commendations_mission: 5
 demerits_total: 16
 demerits_mission: 6
 attentiveness_max: 0
@@ -8,7 +8,7 @@ attentiveness: 0
 duplicity_max: 0
 duplicity: 0
 dynamism_max: 4
-dynamism: 4
+dynamism: 2
 empathy_max: 0
 empathy: 0
 initiative_max: 3
