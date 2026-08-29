@@ -6,7 +6,7 @@ the GM receives a single-use Chaos Effect. It cannot be used on this roll, but i
 Turn a roll, regardless of the number of 3s rolled, into a Failure that cannot be adjusted. This Failure does not add any Chaos.
 ## If you decreased the number of 3s,
 you can use this ability to add up to that many 3s to a later roll during this mission without the GM receiving Deadline.
-### If used on a Triscendence roll, 
+## If used on a Triscendence roll, 
 the roll becomes a Failure. This Mission, you may change the results of up to three future rolls that match the original roll’s type (Ask the Agency or Anomaly Ability) to Triscendence.
 
 
@@ -15,8 +15,8 @@ When you fulfill the criteria listed on the track, you can increase that track o
 - [x] Practiced
 
 I used Procrastinate to increase 3s. 
-- [ ] 1
-- [ ] B4
+- [x] 1
+- [x] B4
 I used Procrastinate to decrease 3s. 
 - [x] 1
 - [x] L5
