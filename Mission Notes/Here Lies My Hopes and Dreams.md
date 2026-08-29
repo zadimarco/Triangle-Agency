@@ -22,7 +22,7 @@
 - Weakness
 
 ## Procrastinate
-- 1 triscendence for ask the agency
+- 0 Triscendences
 - Increased 3s for Bitch
 
 ## Locations
