@@ -14,6 +14,6 @@ your senses change faster than your ability to understand them, and overtaken by
 ## Q: Have you become a Harbinger of the End?
 - [ ] Practiced
 
-| No. I'm too composed for that.<br><form action = "\action_page.php"><br><input input type="checkbox">M8 | Yes. I can feel myself changing.<br>Something is calling to me. It is<br>giving me a pattern, or a blueprint.<br>Something I can...become. I can tell<br>that it is dangerous, but I am ready<br>to risk my life to find out the truth.<br><form action = "\action_page.php"><br><input input type="checkbox">E1 |
-| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| No. I'm too composed for that.<br><form action = "\action_page.php"><br><input input type="checkbox">M8 | Yes. I can feel myself changing.<br>Something is calling to me. It is<br>giving me a pattern, or a blueprint.<br>Something I can...become. I can tell<br>that it is dangerous, but I am ready<br>to risk my life to find out the truth.<br>- [ ] E1 |
+| ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
