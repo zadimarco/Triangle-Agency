@@ -9,7 +9,6 @@
 - 3 teenagers have called in about a corpse with guitar strings in their arms
 - Beau called upon an Urgent to turn Steve inside out.
 - Young Bitch spoke to the trees by removing a word from his vocabulary permanently
-- 
 
 ## Theories
 - Perfectionism through any means
@@ -24,6 +23,7 @@
 
 ## Procrastinate
 - 3 triscendence for ask the agency
+- Increased 3s for Bitch
 
 ## Locations
 ### Corpses
