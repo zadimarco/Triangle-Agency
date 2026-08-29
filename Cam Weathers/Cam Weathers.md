@@ -18,7 +18,7 @@ persistence: 0
 presence_max: 0
 presence: 0
 professionalism_max: 3
-professionalism: 3
+professionalism: 0
 subtlety_max: 0
 subtlety: 0
 ---
