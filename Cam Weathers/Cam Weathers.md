@@ -14,7 +14,7 @@ empathy: 0
 initiative_max: 3
 initiative: 3
 persistence_max: 1
-persistence: 1
+persistence: 0
 presence_max: 0
 presence: 0
 professionalism_max: 3
