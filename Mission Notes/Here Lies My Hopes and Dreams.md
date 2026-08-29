@@ -46,3 +46,7 @@
 - Brandon Forsythe
 	- An artist with a LOT of different arts he tries
 ### River search
+- Didn't check
+
+### Studio Visit
+- 
