@@ -1,26 +1,26 @@
 ---
-commendations_total: 42
-commendations_mission: 3
-demerits_total: 28
+commendations_total: 45
+commendations_mission: 0
+demerits_total: 68
 demerits_mission: 0
 attentiveness_max: 0
 attentiveness: 0
 duplicity_max: 0
 duplicity: 0
 dynamism_max: 4
-dynamism: 2
+dynamism: 4
 empathy_max: 0
 empathy: 0
 initiative_max: 3
 initiative: 3
 persistence_max: 1
-persistence: 0
+persistence: 1
 presence_max: 0
 presence: 0
 professionalism_max: 3
-professionalism: 0
-subtlety_max: 0
-subtlety: 0
+professionalism: 3
+subtlety_max: 1
+subtlety: 1
 ---
 ## Overall Totals
 
@@ -454,7 +454,7 @@ actions:
 Receive 1 Commendation each time you:
 - [ ] Make someone feel welcome.
 - [ ] Show off your specialized knowledge.
-- [x] Get some blood flowing.
+- [ ] Get some blood flowing.
 
 ## Reality: 
 [[Caretaker]]
