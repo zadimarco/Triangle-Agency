@@ -11,8 +11,8 @@ Every time you use it, fill out one space on The End track. When the track is fu
 - [x] 2
 - [x] 3
 - [x] 4
-- [ ] 5
-- [ ] 6
-- [ ] J4
+- [x] 5
+- [x] 6
+- [x] J4
 
 
