@@ -8,17 +8,17 @@ attentiveness: 0
 duplicity_max: 0
 duplicity: 0
 dynamism_max: 4
-dynamism: 4
+dynamism: 3
 empathy_max: 0
 empathy: 0
 initiative_max: 3
-initiative: 3
+initiative: 2
 persistence_max: 1
 persistence: 1
 presence_max: 0
 presence: 0
 professionalism_max: 3
-professionalism: 3
+professionalism: 2
 subtlety_max: 1
 subtlety: 1
 ---
@@ -106,6 +106,51 @@ Demerits: `VIEW[{demerits_mission}]`
 
 `BUTTON[end-mission]`
 ### Competencies
+```meta-bind-button
+label: "Reset"
+hidden: true
+id: "all-reset"
+style: default
+actions:
+  - type: updateMetadata
+    bindTarget: attentiveness
+    evaluate: true
+    value: getMetadata('attentiveness_max')
+  - type: updateMetadata
+    bindTarget: duplicity
+    evaluate: true
+    value: getMetadata('duplicity_max')
+  - type: updateMetadata
+    bindTarget: dynamism
+    evaluate: true
+    value: getMetadata('dynamism_max')
+  - type: updateMetadata
+    bindTarget: empathy
+    evaluate: true
+    value: getMetadata('empathy_max')
+  - type: updateMetadata
+    bindTarget: initiative
+    evaluate: true
+    value: getMetadata('initiative_max')
+  - type: updateMetadata
+    bindTarget: persistance
+    evaluate: true
+    value: getMetadata('persistance_max')
+  - type: updateMetadata
+    bindTarget: presence
+    evaluate: true
+    value: getMetadata('presence_max')
+  - type: updateMetadata
+    bindTarget: professionalism
+    evaluate: true
+    value: getMetadata('professionalism_max')
+  - type: updateMetadata
+    bindTarget: subtlety
+    evaluate: true
+    value: getMetadata('subtlety_max')
+
+```
+`BUTTON[all-reset]`
 ##### Attentiveness: `VIEW[{attentiveness}]`
 `BUTTON[attentiveness-decrement, attentiveness-reset, attentiveness-increment]`
 ```meta-bind-button
