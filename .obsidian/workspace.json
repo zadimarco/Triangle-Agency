@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cam Weathers/Anomaly/Anomaly Abilities/Endbringer.md",
+                "file": "Rules/Team Player.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endbringer"
+              "title": "Team Player"
             }
           }
         ],
@@ -212,6 +212,12 @@
   },
   "active": "b9fd6aa8cb4a51a1",
   "lastOpenFiles": [
+    "Pat H. Fender/Reality/Relationships/Jamie Weisman.md",
+    "Rules/Team Player.md",
+    "Rules/Connection Bonuses.png",
+    "Pat H. Fender/Reality/Relationships/Cypress Green.md",
+    "Pat H. Fender/Reality/Relationships/Helena Cartwright.md",
+    "Cam Weathers/Anomaly/Anomaly Abilities/Endbringer.md",
     "Cam Weathers/Reality/Relationships/Ralph Avery.md",
     "Cam Weathers/Anomaly/Anomaly Abilities/My Future.md",
     "Pat H. Fender/Pat H. Fender.md",
@@ -220,7 +226,6 @@
     "Cam Weathers/Anomaly/Anomaly Abilities/Big Hand.md",
     "Cam Weathers/Anomaly/Anomaly Abilities/Clock Face.md",
     "Cam Weathers/Anomaly/Anomaly Abilities/Doughboy.md",
-    "Cam Weathers/Anomaly/Anomaly Abilities/Endbringer.md",
     "Cam Weathers/Anomaly/Anomaly Abilities/Eye For Details.md",
     "Cam Weathers/Anomaly/Anomaly Abilities/Eyes.md",
     "Cam Weathers/Anomaly/Anomaly Abilities/I'll Cover You!.md",
@@ -234,10 +239,6 @@
     "Templates/Anomaly Ability.md",
     "Pat H. Fender/Anomaly/Anomaly Abilities/Big Hand.md",
     "Pat H. Fender/Competency/Requisitions/Inherited Nametag.md",
-    "Pat H. Fender/Competency/Requisitions/Triple Shot Glass.md",
-    "Pat H. Fender/Competency/Requisitions/Large Locker.md",
-    "Cam Weathers/Reality/Relationships/Escaped Anomalies/Zbarro.md",
-    "Cam Weathers/Reality/Relationships/Escaped Anomalies/Voyagers of Heroia.md",
     "Pat H. Fender/Reality/Relationships/Escaped Anomalies",
     "Pat H. Fender/Reality/Relationships",
     "Pat H. Fender/Competency/Requisitions",
@@ -246,7 +247,6 @@
     "Pat H. Fender/Competency",
     "Pat H. Fender/Anomaly",
     "Pat H. Fender",
-    "Rules/Connection Bonuses.png",
     "Mission Notes/Burn After Reading",
     "Cam Weathers/Competency/Requisitions"
   ]
