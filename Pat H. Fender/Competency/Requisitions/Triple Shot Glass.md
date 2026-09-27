@@ -1,0 +1,1 @@
+The Barista has a special shot glass from the Vault Cafe. Once each mission, if this shot glass is used when pulling espresso from any espresso machine, the resulting shot can be poured into the mouth of a dead body to return them to life for ten minutes. Whether Anomalous or Mundane, they cannot survive any amount of harm

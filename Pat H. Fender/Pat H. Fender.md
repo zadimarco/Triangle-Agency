@@ -494,7 +494,7 @@ actions:
 ```
 `BUTTON[subtlety-decrement, subtlety-reset, subtlety-increment]`
 
-[[Cam Weathers/Competency/Barista]]
+[[Pat H. Fender/Competency/Barista]]
 ### Sanctioned Behaviors
 Receive 1 Commendation each time you:
 - [ ] Make someone feel welcome.
@@ -502,19 +502,19 @@ Receive 1 Commendation each time you:
 - [ ] Get some blood flowing.
 
 ## Reality: 
-[[Cam Weathers/Caretaker]]
+[[Pat H. Fender/Caretaker]]
 #### Relationships:
-[[Cam Weathers/Reality/Relationships/Chris Walsh]]
-[[Cam Weathers/Reality/Relationships/Ralph Avery]]
-[[Cam Weathers/Reality/Relationships/Jeffy Jameson]]
-[[Cam Weathers/Reality/Relationships/Dependent-Gregor]]
+[[Pat H. Fender/Reality/Relationships/Chris Walsh]]
+[[Pat H. Fender/Reality/Relationships/Ralph Avery]]
+[[Pat H. Fender/Reality/Relationships/Jeffy Jameson]]
+[[Pat H. Fender/Reality/Relationships/Dependent-Gregor]]
 ## Anomaly: 
-[[Cam Weathers/Anomaly/Anomaly Abilities/Eyes]]
-[[Cam Weathers/Anomaly/Anomaly Abilities/Overclock]]
-[[Cam Weathers/Anomaly/Anomaly Abilities/Endbringer]]
-[[Cam Weathers/Anomaly/Anomaly Abilities/Limbs]]
-[[Cam Weathers/Anomaly/Anomaly Abilities/Refined Senses]]
-[[Cam Weathers/Anomaly/Anomaly Abilities/I'll Cover You!]]
+[[Pat H. Fender/Anomaly/Anomaly Abilities/Eyes]]
+[[Pat H. Fender/Anomaly/Anomaly Abilities/Overclock]]
+[[Pat H. Fender/Anomaly/Anomaly Abilities/Endbringer]]
+[[Pat H. Fender/Anomaly/Anomaly Abilities/Limbs]]
+[[Pat H. Fender/Anomaly/Anomaly Abilities/Refined Senses]]
+[[Pat H. Fender/Anomaly/Anomaly Abilities/I'll Cover You!]]
 #### Escaped Anomalies
-[[Cam Weathers/Reality/Relationships/Escaped Anomalies/Maxentius]]
-[[Cam Weathers/Reality/Relationships/Escaped Anomalies/Voyagers of Heroia]]
+[[Pat H. Fender/Reality/Relationships/Escaped Anomalies/Maxentius]]
+[[Pat H. Fender/Reality/Relationships/Escaped Anomalies/Voyagers of Heroia]]
