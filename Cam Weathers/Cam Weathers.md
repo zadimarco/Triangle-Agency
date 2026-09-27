@@ -1,7 +1,7 @@
 ---
 commendations_total: 45
 commendations_mission: 0
-demerits_total: 68
+demerits_total: 12
 demerits_mission: 0
 attentiveness_max: 0
 attentiveness: 0
