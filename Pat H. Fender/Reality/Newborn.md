@@ -17,7 +17,7 @@ When you are doing something that will make the world more like you, ignore all 
 
 # Onboarding
 - How did you end up here?
-	- I was trapped in [[The Labyrinth Underneath All Things]] for an unspeakable amount of time (since the 70s irl). Time passes differently there. I was a regular guy, but being trapped there long enough changes a man
+	- I was trapped in [[The Labyrinth Underneath All Things]] for an unspeakable amount of time (since the 70s irl). Time passes differently there. I was a regular guy, but being trapped there long enough changes a man.
 - What is the last thing that made you feel completely alone?
 	- Eating alone in the parking lot of the escape room after Jamie Weisman left me alone.
 - If you had an extra day in the week, how would you use it?

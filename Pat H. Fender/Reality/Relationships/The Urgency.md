@@ -1,4 +1,4 @@
-## Connection: 9
+## Connection: 2
 
 - Vault door is a printer with missing toner
 - Guarded by retired old agents. Gotten past through putting them to sleep with clam chowder

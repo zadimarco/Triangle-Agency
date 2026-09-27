@@ -1,0 +1,1 @@
+All Interns are given an endless packet of blank nametags. Once each mission, you may write the name of someone you met today on a nametag and apply it somewhere on your person. Everyone except other Agents will treat you as the named person for as longas you keep the nametag on.

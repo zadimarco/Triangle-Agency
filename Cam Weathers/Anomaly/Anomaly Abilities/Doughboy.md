@@ -1,10 +1,4 @@
-# Description:
-Anomaly around a pizza business. Currently agency run.
-# Connection Level: 6
-
-# Doughboy
 You know just the right person for any position. Study somebody and roll **Duplicity**
-
 ## On a Success, 
 you grow a Doppelganger of the target: a duplicate copy composed entirely of your skin or any substance you have enough of on hand. It is capable of acting on simple commands and can withstand 1 harm before being destroyed, but simple probing reveals its boneless, organless, unnaturally bendy nature. It loses its shape and functionality after an hour
 

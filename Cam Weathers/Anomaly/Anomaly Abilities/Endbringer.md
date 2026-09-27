@@ -10,7 +10,7 @@ Every time you use it, fill out one space on The End track. When the track is fu
 - [x] 1
 - [x] 2
 - [x] 3
-- [ ] 4
+- [x] 4
 - [ ] 5
 - [ ] 6
 - [ ] J4

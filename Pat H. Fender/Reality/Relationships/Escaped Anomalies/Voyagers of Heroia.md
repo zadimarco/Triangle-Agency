@@ -1,6 +1,6 @@
 # Description:
 Voyagers from Heroia. Video game characters from a fantasy game that escaped the game and are trying to live in the real world.
-# Connection Level: 9
+# Connection Level: 6
 
 # Anomaly Ability: Side Quest
 Ask a bystander for an object you seek. Say to someone: "Hail and well met. Do you know where I can find..." and then an object you seek. Roll **Presence**

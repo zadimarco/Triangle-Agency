@@ -1,26 +1,26 @@
 ---
-commendations_total: 45
+commendations_total: 0
 commendations_mission: 0
-demerits_total: 12
+demerits_total: 0
 demerits_mission: 0
 attentiveness_max: 0
 attentiveness: 0
 duplicity_max: 0
 duplicity: 0
-dynamism_max: 4
-dynamism: 3
+dynamism_max: 0
+dynamism: 0
 empathy_max: 0
 empathy: 0
 initiative_max: 3
-initiative: 2
-persistence_max: 1
-persistence: 1
+initiative: 3
+persistence_max: 3
+persistence: 3
 presence_max: 0
 presence: 0
-professionalism_max: 3
-professionalism: 2
-subtlety_max: 1
-subtlety: 1
+professionalism_max: 0
+professionalism: 0
+subtlety_max: 3
+subtlety: 0
 ---
 ## Overall Totals
 
@@ -133,9 +133,9 @@ actions:
     evaluate: true
     value: getMetadata('initiative_max')
   - type: updateMetadata
-    bindTarget: persistance
+    bindTarget: persistence
     evaluate: true
-    value: getMetadata('persistance_max')
+    value: getMetadata('persistence_max')
   - type: updateMetadata
     bindTarget: presence
     evaluate: true
@@ -494,27 +494,22 @@ actions:
 ```
 `BUTTON[subtlety-decrement, subtlety-reset, subtlety-increment]`
 
-[[Pat H. Fender/Competency/Barista]]
 ### Sanctioned Behaviors
 Receive 1 Commendation each time you:
-- [ ] Make someone feel welcome.
-- [ ] Show off your specialized knowledge.
-- [ ] Get some blood flowing.
+- [ ] Confidently fail.
+- [ ] Embarrass yourself for others' benefit.
+- [ ] Bring something screeching to a halt.
+## Prime Directive
+Each time you deny a request, receive 1 Demerit.
 
 ## Reality: 
-[[Pat H. Fender/Caretaker]]
+[[Newborn]]
 #### Relationships:
-[[Pat H. Fender/Reality/Relationships/Chris Walsh]]
-[[Pat H. Fender/Reality/Relationships/Ralph Avery]]
-[[Pat H. Fender/Reality/Relationships/Jeffy Jameson]]
-[[Pat H. Fender/Reality/Relationships/Dependent-Gregor]]
+[[Cypress Green]]
+[[Helena Cartwright]]
+[[Jamie Weisman]]
 ## Anomaly: 
-[[Pat H. Fender/Anomaly/Anomaly Abilities/Eyes]]
-[[Pat H. Fender/Anomaly/Anomaly Abilities/Overclock]]
-[[Pat H. Fender/Anomaly/Anomaly Abilities/Endbringer]]
-[[Pat H. Fender/Anomaly/Anomaly Abilities/Limbs]]
-[[Pat H. Fender/Anomaly/Anomaly Abilities/Refined Senses]]
-[[Pat H. Fender/Anomaly/Anomaly Abilities/I'll Cover You!]]
-#### Escaped Anomalies
-[[Pat H. Fender/Reality/Relationships/Escaped Anomalies/Maxentius]]
-[[Pat H. Fender/Reality/Relationships/Escaped Anomalies/Voyagers of Heroia]]
+[[Just Keep Walking...]]
+[[I Know a Shortcut!]]
+[[Gyre the Gimbal]]
+

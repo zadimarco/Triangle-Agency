@@ -1,4 +1,4 @@
-### Played by: Dylan
+### Played by: Reed
 ## Description - Escape Room Operator
 An escape room operator that operates a puzzle club. Felt bad for Pat after seeing him and Cypress Green. Asked him out for a drink when he noticed Pat alone in the parking lot.
 
