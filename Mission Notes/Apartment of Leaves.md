@@ -36,3 +36,21 @@
 	- Water everywhere and sounds of construction when there isn't
 	- Place started getting worse 5-6 months ago.
 - Ben & Amy being led around by Melissa
+- Ed, played chess with James, died after saying "I don't live here"
+
+## James' Apartment
+- Huge hole in the ceiling
+	- A concrete hallway of some kind that leads to a staircase up
+	- Pair of legs sticking out. James Grady with concrete rebar stabbed thru his chest
+		- RIP James. I got mad. Sorry James, Sorry.
+	- At end of hallway, there is a staircase to an old metal door. Door thru wet wall leads to a basement
+		- Voices at top of stairs 
+- Computer that is on
+	- Above the desk is a wallet open and flat against the ceiling
+	- In the middle of sending an email
+		- Long email thread about maintenance requests for multiple people in the apartment
+		- Is in the middle of responding to an email "Why can't u b happy with what I gave you. Love, Your Regal Family"
+- Smells wet and like pennies
+
+## Basement
+- Voices at top of the stairs
