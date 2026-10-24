@@ -1,8 +1,8 @@
 ---
 commendations_total: 0
-commendations_mission: 3
+commendations_mission: 5
 demerits_total: 0
-demerits_mission: 4
+demerits_mission: 5
 attentiveness_max: 0
 attentiveness: 0
 duplicity_max: 0
@@ -21,7 +21,7 @@ professionalism_max: 0
 professionalism: 0
 subtlety_max: 3
 subtlety: 3
-chaos: 9
+chaos: 13
 ---
 ## Overall Totals
 
