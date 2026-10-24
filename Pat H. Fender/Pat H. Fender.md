@@ -20,7 +20,7 @@ presence: 0
 professionalism_max: 0
 professionalism: 0
 subtlety_max: 3
-subtlety: 0
+subtlety: 3
 ---
 ## Overall Totals
 

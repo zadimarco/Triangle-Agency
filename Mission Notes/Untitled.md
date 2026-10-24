@@ -1,0 +1,3 @@
+- Senora is having trouble with her typewriter
+	- Cam caused some issues
+	- 
