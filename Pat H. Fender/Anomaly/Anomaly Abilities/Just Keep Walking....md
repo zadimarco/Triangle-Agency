@@ -9,7 +9,7 @@ you may trap an additional target or make the maze last for additional rolls pas
 you speed them immediately along to their destination—they reach their target, or catch you, immediately.
 
 ## Q: I spend time with people...
-- [ ] Practiced
+- [x] Practiced
 
 ### A1: I want to understand.
 - [ ] 1
