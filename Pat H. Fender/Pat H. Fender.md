@@ -1,8 +1,8 @@
 ---
 commendations_total: 0
-commendations_mission: 0
+commendations_mission: 3
 demerits_total: 0
-demerits_mission: 0
+demerits_mission: 4
 attentiveness_max: 0
 attentiveness: 0
 duplicity_max: 0
@@ -21,6 +21,7 @@ professionalism_max: 0
 professionalism: 0
 subtlety_max: 3
 subtlety: 3
+chaos: 9
 ---
 ## Overall Totals
 
@@ -37,6 +38,30 @@ actions:
     bindTarget: demerits_mission
     evaluate: true
     value: x+1
+
+```
+```meta-bind-button
+label: "Add Chaos"
+hidden: true
+id: "add-chaos"
+style: default
+actions:
+  - type: updateMetadata
+    bindTarget: chaos
+    evaluate: true
+    value: x+1
+
+```
+```meta-bind-button
+label: "Remove Chaos"
+hidden: true
+id: "remove-chaos"
+style: default
+actions:
+  - type: updateMetadata
+    bindTarget: chaos
+    evaluate: true
+    value: Math.max(0, x-1)
 
 ```
 ```meta-bind-button
@@ -97,12 +122,18 @@ actions:
     bindTarget: commendations_mission
     evaluate: false
     value: 0
+  - type: updateMetadata
+    bindTarget: chaos
+    evaluate: false
+    value: 0
 
 ```
 Commendations: `VIEW[{commendations_mission}]`
 `BUTTON[lose-commendation,gain-commendation]`
 Demerits: `VIEW[{demerits_mission}]`
 `BUTTON[lose-demerit,gain-demerit]`
+Chaos Generated: `VIEW[{chaos}]`
+`BUTTON[add-chaos,remove-chaos]`
 
 `BUTTON[end-mission]`
 ### Competencies
@@ -497,8 +528,8 @@ actions:
 ### Sanctioned Behaviors
 Receive 1 Commendation each time you:
 - [ ] Confidently fail.
-- [ ] Embarrass yourself for others' benefit.
-- [ ] Bring something screeching to a halt.
+- [x] Embarrass yourself for others' benefit.
+- [x] Bring something screeching to a halt.
 ## Prime Directive
 Each time you deny a request, receive 1 Demerit.
 
