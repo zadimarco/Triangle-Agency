@@ -24,9 +24,15 @@
 	- Hasn't been seen for a week.
 	- None of the mail stands out
 - Bulletin board
-	- 
+	- Notices on board stopped being posted about 6 months ago.
+	- It is also really wet
+	- Cheesy Clipart of a king flier for Regal Management
+		- "Community above the rest"
+	- Piece of handwritten paper crumpled up and wet
+		- Trying to organize the tenants of the building
 - Martha Bartha
 	- Older black woman resident of elm court
 	- Says the place has been getting worse
 	- Water everywhere and sounds of construction when there isn't
+	- Place started getting worse 5-6 months ago.
 - 
